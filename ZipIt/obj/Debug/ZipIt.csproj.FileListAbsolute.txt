@@ -1,0 +1,7 @@
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\bin\Debug\ZipIt.exe.config
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\bin\Debug\ZipIt.exe
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\bin\Debug\ZipIt.pdb
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\obj\Debug\ZipIt.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\obj\Debug\ZipIt.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\obj\Debug\ZipIt.exe
+C:\Users\jimmy\source\repos\ZipIt\ZipIt\obj\Debug\ZipIt.pdb
